@@ -28,4 +28,5 @@ create table funcionarios (
 -- use fj21;
 
 select * from contatos;
+
 select * from funcionarios;
